@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Applications/Visual Studio copy/BakendaForritun/C# Primer/C# Primer.csproj": {}
+  },
+  "projects": {
+    "/Applications/Visual Studio copy/BakendaForritun/C# Primer/C# Primer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/Visual Studio copy/BakendaForritun/C# Primer/C# Primer.csproj",
+        "projectName": "C# Primer",
+        "projectPath": "/Applications/Visual Studio copy/BakendaForritun/C# Primer/C# Primer.csproj",
+        "packagesPath": "/Users/aronbrekiskulason/.nuget/packages/",
+        "outputPath": "/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aronbrekiskulason/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

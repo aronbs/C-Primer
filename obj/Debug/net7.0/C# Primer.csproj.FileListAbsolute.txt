@@ -1,0 +1,15 @@
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/bin/Debug/net7.0/C# Primer
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/bin/Debug/net7.0/C# Primer.deps.json
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/bin/Debug/net7.0/C# Primer.runtimeconfig.json
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/bin/Debug/net7.0/C# Primer.dll
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/bin/Debug/net7.0/C# Primer.pdb
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.csproj.AssemblyReference.cache
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.AssemblyInfoInputs.cache
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.AssemblyInfo.cs
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.csproj.CoreCompileInputs.cache
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.dll
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/refint/C# Primer.dll
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.pdb
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/C# Primer.genruntimeconfig.cache
+/Applications/Visual Studio copy/BakendaForritun/C# Primer/obj/Debug/net7.0/ref/C# Primer.dll
